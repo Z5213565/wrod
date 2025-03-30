@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>张润的个人网页</title>
+</head>
+<body>
+<div style="background-color: #f1f1f1;
+ text-align: center;
+ padding: 80px;
+ font-size: 12px"
+>
+<img src="https://i.imgs.ovh/2025/03/30/yNIK4.png"alt ="1"width="120px"height="120px"></img>
+</div>
+<div style="
+ text-align: center;
+ padding: 80px;
+ font-size: 12px；
+ color:red;"
+ >
+ <p>你好朋友</p>
+ <p>这是我创建的第一个网站</p>
+ <p>很高兴能在网上认识你</p>
+ <p>我的qq号:1105827825</p>
+ <p>创建这个网站的时候我14岁了，还在上初二</p>
+ <p>呜呼，新页面</p>
+ </div>
+<div style="background-color: #f1f1f1;
+ text-align: center;
+ padding: 80px;
+ font-size: 12px">
+<p>我的网站<p/>
+<a href="https://www.gov.cn/">友情链接</a>
+</div>
